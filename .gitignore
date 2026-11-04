@@ -1,0 +1,47 @@
+﻿.env
+.env.*
+!.env.example
+**/config/database.php
+.DS_Store
+Thumbs.db
+*.log
+**/auth_test.php
+**/db-config-test.php
+**/db-check.php
+**/make-hash.php
+**/debug.php
+
+# Additional local credential files
+*.env
+**/config/database.local.php
+**/config/*credentials*.php
+
+# Machine-specific and temporary files
+.vscode/
+error_log
+*.cache
+*.swp
+*.swo
+*~
+*.bak
+*.backup
+*.old
+*.orig
+*.save
+*.tmp
+*.temp
+*.dump
+*.sql.gz
+*.sql.bak
+*.sqlite
+*.sqlite3
+*.db
+
+# Private data and local uploads
+**/private/**
+**/uploads/**
+
+# Local test and debugging artifacts
+**/*.debug.*
+/MANUAL-TESTING-REPORT.md
+/tatus --short

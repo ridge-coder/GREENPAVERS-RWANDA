@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Abstract placeholder scene of paving blocks and grasses">
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#d6d2b7"/><stop offset="1" stop-color="#b6b79a"/></linearGradient><linearGradient id="ground" x2="0" y2="1"><stop stop-color="#7c806b"/><stop offset="1" stop-color="#545e51"/></linearGradient></defs>
+  <rect width="1200" height="900" fill="url(#sky)"/><path d="M0 480 260 370l250 105 270-130 420 170v385H0Z" fill="#8d9278"/><path d="M0 615 355 465l845 220v215H0Z" fill="url(#ground)"/>
+  <path d="m105 683 330-190 330 100-330 193Zm342 104 327-191 325 104-328 191Z" fill="#c6bd9d"/><path d="m105 683 330 103v41L105 724Zm330 103 330-193v41L435 827Zm12 1 327-191v43L447 830Z" fill="#8a8874"/><path d="m440 493 325 100v42L440 535Zm325 100 420 135v42L765 635Z" fill="#928d77"/>
+  <path d="M105 683 435 493l330 100-330 193Z" fill="none" stroke="#eee8d2" stroke-opacity=".55" stroke-width="5"/><path d="M432 787 759 596l340 109" fill="none" stroke="#eee8d2" stroke-opacity=".45" stroke-width="5"/>
+  <g fill="none" stroke="#34483b" stroke-linecap="round" stroke-width="12"><path d="M1010 480q-24-160-8-257m8 257q62-141 113-191m-113 191q-78-116-132-143m177 143q7-110 79-166m-930 99q3-95-39-154m39 154q43-92 96-111"/></g><g fill="#526849"><circle cx="1002" cy="208" r="20"/><circle cx="1120" cy="279" r="18"/><circle cx="877" cy="330" r="16"/><circle cx="204" cy="287" r="18"/><circle cx="126" cy="333" r="14"/></g>
+  <rect x="1" y="1" width="1198" height="898" fill="none" stroke="#f1f0e9" stroke-opacity=".65" stroke-width="2"/>
+</svg>

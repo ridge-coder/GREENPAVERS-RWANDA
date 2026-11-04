@@ -1,0 +1,19 @@
+# Secrets and environment configuration
+.env
+.env.*
+!.env.example
+
+# Database credentials
+**/config/database.php
+
+# Local development files
+.DS_Store
+Thumbs.db
+*.log
+
+# Temporary testing and debug files
+**/auth_test.php
+**/db-config-test.php
+**/db-check.php
+**/make-hash.php
+**/debug.php
